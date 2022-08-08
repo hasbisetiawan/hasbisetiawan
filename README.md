@@ -7,11 +7,13 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/hasbisetiawan/hasbisetiawan">
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=hasbisetiawan&show_icons=true&theme=dracula">
-</a>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasbisetiawan&layout=compact&amp;title_color=dd6387&amp;bg_color=282a36&amp;text_color=ffffff">
 
+<a href="https://github.com/hasbisetiawan/hasbisetiawan">
+  <img margin="20" align="center" width="42%" src="https://github-readme-stats.vercel.app/api?username=hasbisetiawan&show_icons=true&theme=dracula">
+</a>
+<a href="https://github.com/hasbisetiawan/hasbisetiawan">
+  <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasbisetiawan&layout=compact&amp;title_color=dd6387&amp;bg_color=282a36&amp;text_color=ffffff">
+</a>
 
 <img align="left" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
