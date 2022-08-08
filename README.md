@@ -1,16 +1,14 @@
-### Hi there, I'm Satria Aluh Perwira Nusa 👋
+# Hi there, I'm Hasbi Setiawan 👋
 
-### and here is my stats
-<p align="center"><img src="https://www.codewars.com/users/SatriaAPN/badges/large"/><br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=SatriaAPN&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatriaAPN&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaAPN&layout=compact&theme=monokai&langs_count=12"/><br />
-</p>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=hasbisetiawan&show_icons=true&theme=dracula">
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasbisetiawan&layout=compact&amp;title_color=dd6387&amp;bg_color=282a36&amp;text_color=ffffff">
 
-<!--
-**SatriaAPN/SatriaAPN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
 
-Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
