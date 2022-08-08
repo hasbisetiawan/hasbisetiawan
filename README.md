@@ -7,18 +7,20 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<div>
+<div align="center">
 <a href="https://github.com/hasbisetiawan/hasbisetiawan">
-  <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=hasbisetiawan&show_icons=true&theme=dracula">
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=hasbisetiawan&show_icons=true&theme=dracula">
 </a>
 <a href="https://github.com/hasbisetiawan/hasbisetiawan">
-  <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasbisetiawan&layout=compact&amp;title_color=dd6387&amp;bg_color=282a36&amp;text_color=ffffff">
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasbisetiawan&layout=compact&amp;title_color=dd6387&amp;bg_color=282a36&amp;text_color=ffffff">
 </a>
 </div>
-
-<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
-<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
+<br>
+<div align="right">
+<img align="left" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
+</div>
 
 
 
