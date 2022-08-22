@@ -1,8 +1,8 @@
 # Hi there, I'm Hasbi Setiawan 👋
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a&labelColor=282a36)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=2bbc8a&labelColor=282a36)
+![](https://img.shields.io/badge/Linux-Manjaro-informational?style=for-the-badge&logo=manjaro&logoColor=white&color=2bbc8a&labelColor=282a36)
 
 ## &#x1f4c8; GitHub Stats
 
